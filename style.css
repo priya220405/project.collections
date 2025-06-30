@@ -140,21 +140,21 @@ button:hover {
 
 /* Dynamic Background */
 body.clear {
-    background-image: url('images/clear.jpg');
+    background-image: url('./images/clear.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }    
 
 body.clouds {
-    background-image: url('images/cloud.jpg');
+    background-image: url('./images/cloud.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 body.rain {
-    background-image: url('images/rain.jpg');
+    background-image: url('./images/rain.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
